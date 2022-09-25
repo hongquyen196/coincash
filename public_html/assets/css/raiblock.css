@@ -1,0 +1,13 @@
+
+table {
+  font-size: 17px;
+}
+table td,
+table th {
+  padding: 5px;
+}
+
+.numberc{
+ text-align: right;
+}
+
